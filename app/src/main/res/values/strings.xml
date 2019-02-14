@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">tarea01</string>
+    <string name="activity_main_nombre">ingrese su nombre</string>
+    <string name="activity_main_tel">ingrese su telefono</string>
+    <string name="activity_main_escolaridad">Escolaridad</string>
+    <string name="activity_main_genero">genero</string>
+    <string name="activity_main_genero_masculino">Masculino</string>
+    <string name="activity_main_genero_femenino">Femenino</string>
+    <string name="activity_main_libro">Libro favorito</string>
+    <string name="activity_main_deporte">practica deporte</string>
+    <string name="activity_main_limpiar">Limpiar</string>
+    <string-array name="escolaridad_array">
+        <item>Bachillerato</item>
+        <item>Tecnico</item>
+        <item>Licenciatura</item>
+        <item>Maestria</item>
+        <item>Doctorado</item>
+    </string-array>
+
+    <string-array name="libros_array">
+        <item>Harry Potter</item>
+        <item>Rey de los anillos</item>
+        <item>Los juegos del hambre</item>
+        <item>Crepusculo</item>
+        <item>Biblia</item>
+        <item>Algebra de Baldor</item>
+        <item>Padre rico padre pobre</item>
+    </string-array>
+</resources>
